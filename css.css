@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(210, 205, 196);
+}
+
+#usernamelabel {
+    font-weight: bold;
+}
+
+#username {
+    border: 1px solid rgb(210, 205, 196);
+    border-radius: 5px;
+}
+
+#username:hover {
+    box-shadow: 1px 2px 5px 2px;
+}
+
+.div1 {
+    align-items: center;
+    position: static;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 400px;
+    height: 60px;
+    background-image: url("photto.jpg");
+}
+
+.div1:hover {
+    box-shadow: 1px 2px 5px 2px;
+}
+
+.div2 {
+    align-items: center;
+    position: static;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 400px;
+    height: 60px;
+    background-image: url("photto.jpg");
+}
+
+.div2:hover {
+    box-shadow: 1px 2px 5px 2px;
+}
+
+.div3 {
+    align-items: center;
+    position: static;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 400px;
+    height: 60px;
+    background-image: url("photto.jpg");
+}
+
+.div3:hover {
+    box-shadow: 1px 2px 5px 2px;
+}
+
+.que {
+    font-family: sans-serif;
+    font-size: large;
+}
+
+#submit {
+    width: 442px;
+    height: 40px;
+    background-image: url("photto.jpg");
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#submit:hover {
+    box-shadow: 1px 2px 5px 2px;
+    opacity: 80%;
+}
+
+header {
+    margin-left: 300px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
